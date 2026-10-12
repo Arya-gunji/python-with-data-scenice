@@ -72,6 +72,10 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 
 ![Diabetes Prediction Output](diabetes_output.png)
 
+### Diabetes Analysis Output
+
+![Diabetes Prediction Output](diabetes-analysis.png)
+
 ### Diabetes Prediction Chart
 
 ![Diabetes Prediction Chart](diabetes-chart.png)
