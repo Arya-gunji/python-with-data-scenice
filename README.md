@@ -67,13 +67,15 @@ pip install pandas numpy matplotlib scikit-learn jupyter
 
 ## Output
 
-The notebook displays:
 
-- Dataset preview
-- Model accuracy
-- Patient input prompts
-- Predicted class
-- Outcome distribution bar chart
+### Model Output
+
+![Diabetes Prediction Output](diabetes-output.png)
+
+### Diabetes Prediction Chart
+
+![Diabetes Prediction Chart](diabetes-chart.png)
+
 
 ## Project Link
 
